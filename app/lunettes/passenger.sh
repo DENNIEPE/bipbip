@@ -1,0 +1,1 @@
+flutter run --flavor passenger -t lib/main_passenger.dart
